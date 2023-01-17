@@ -1,0 +1,23 @@
+{
+  "name": "az-terwat-blogwp-entries",
+  "version": "1.0.0",
+  "description": "Blog WP Entries 250 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AplUSAndmINUS/az-terwat-blogwp-entries.git"
+  },
+  "author": "Terence Waters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AplUSAndmINUS/az-terwat-blogwp-entries/issues"
+  },
+  "homepage": "https://github.com/AplUSAndmINUS/az-terwat-blogwp-entries#readme",
+  "dependencies": {
+    "axios": "^1.2.2"
+  }
+}
