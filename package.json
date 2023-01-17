@@ -1,7 +1,7 @@
 {
   "name": "az-terwat-blogwp-entries",
   "version": "1.0.0",
-  "description": "Blog WP Entries 250 ",
+  "description": "Blog WP AplUSAndmINUS to bring back 100 entries",
   "main": "index.js",
   "scripts": {
     "test": "test",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AplUSAndmINUS/az-terwat-blogwp-entries.git"
+    "url": "https://github.com/AplUSAndmINUS/az-terwat-blogwp-entries.git"
   },
   "author": "Terence Waters",
   "license": "ISC",
