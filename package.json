@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/AplUSAndmINUS/az-terwat-blogwp-entries#readme",
   "dependencies": {
-    "axios": "^1.2.2"
+    "axios": "^1.2.2",
+    "node": "^16.19.0"
   }
 }

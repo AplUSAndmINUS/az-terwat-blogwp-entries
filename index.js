@@ -1,7 +1,7 @@
 const axios = require('axios');
 const URL = 'https://terencewaters.com/aplusandminus/wp-json/wp/v2/posts?per_page=100';
 
-console.log('testing');
+// console.log('testing');
 
 axios.get(URL)
   .then(response => {
@@ -15,7 +15,9 @@ axios.get(URL)
       tags: post.tags,
       date: post.date
     }));
-    console.log(data);
+
+    // console.log(data);
+    return data;
   })
   .catch(error => {
     console.log(error);
