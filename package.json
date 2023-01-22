@@ -19,6 +19,7 @@
   "homepage": "https://github.com/AplUSAndmINUS/az-terwat-blogwp-entries#readme",
   "dependencies": {
     "axios": "^1.2.2",
+    "azure-storage": "^2.10.7",
     "node": "^16.19.0"
   }
 }

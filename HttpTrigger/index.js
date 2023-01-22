@@ -1,7 +1,8 @@
 const axios = require('axios');
+const azureStorage = require('azure-storage');
 
 const getEntries = require('../index');
-const writeBlobStorage = require('blobStorage.js');
+const writeBlobStorage = require('../index');
 const URL = 'https://terencewaters.com/aplusandminus/wp-json/wp/v2/posts?per_page=100';
 console.log('testing');
 
